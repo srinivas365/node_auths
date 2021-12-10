@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGODB_ATLAS_PWD":"m001-mongodb-basics",
+        "JWT_SECRET_KEY":"mannemsrinivas",
+        "PORT":3001
+    }
+}
